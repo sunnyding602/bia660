@@ -1,0 +1,12 @@
+pip install nltk
+
+>>>
+import nltk
+nltk.download()
+download sth
+
+
+
+
+stopwords
+python -m nltk.downloader all

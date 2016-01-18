@@ -1,0 +1,10 @@
+excellent phone , excellent service .
+['excellent', 'excellent']
+[]
+Positive
+
+i am a business user who heavily depend on mobile service .
+[]
+[]
+Neutral
+
